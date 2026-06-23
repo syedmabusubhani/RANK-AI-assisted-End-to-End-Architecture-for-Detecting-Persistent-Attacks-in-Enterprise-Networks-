@@ -1,0 +1,12 @@
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install keras
+!pip install tensorflow
+!pip install h5py
+!pip install protobuf
+!pip install scikit-learn
+!pip install seaborn
+!pip install nbconvert
+!pip install mitreattack-python
+
